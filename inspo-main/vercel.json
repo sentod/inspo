@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "inspo-recommendation.vercel.app",
+        "APP_URL": "https://inspo-sage.vercel.app/",
         "APP_KEY": "base64:YwI4vmBTiDu7sbBiSLSwfqt6sw6TtEP/hJGyBg32pwE=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
